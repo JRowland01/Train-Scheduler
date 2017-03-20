@@ -1,0 +1,15 @@
+#container{
+	width:960px;
+	margin: 0 auto;
+
+}
+
+.jumbotron{
+	background-color: #d9edf7 !important;
+	font-family: 'Diplomata SC', cursive !important;
+}
+
+h1{
+	text-align: center;
+	color: #31708f !important;
+}
